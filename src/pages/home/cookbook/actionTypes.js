@@ -1,0 +1,1 @@
+export const LOADDATA = "cook book/load-data"
